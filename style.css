@@ -195,7 +195,7 @@ section.portifolio .flex{
 .img-port {
     width: 360px;
     height: 460px;
-    background-color: #00FF08;
+    background-color: rgba(7, 5, 5, 0.219);
     background-size: cover;
     background-position: 100% 0%;
     transition: 8s;
